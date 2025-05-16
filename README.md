@@ -1,2 +1,2 @@
 # mc-ai
-Merritt Collective (Public): AI Security code and scripts
+Merritt Collective: AI Security code and scripts
